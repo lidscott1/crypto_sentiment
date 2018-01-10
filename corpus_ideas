@@ -1,0 +1,12 @@
+Sources:
+
+We could manually classify/give a polarity for some of the articles, and then use as model for test set
+
+See #14, Affective text 
+http://nlp.cs.swarthmore.edu/semeval/tasks/index.php 
+
+See 6th header
+http://www.affective-sciences.org/home/research/materials-and-online-research/research-material/ 
+
+General list:
+https://www.w3.org/community/sentiment/wiki/Datasets

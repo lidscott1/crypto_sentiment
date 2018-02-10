@@ -4,7 +4,7 @@ import datetime
 import re
 import pickle
 from math import ceil
-
+import nltk
 
 class ApiCall(object):
     

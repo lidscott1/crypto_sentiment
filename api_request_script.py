@@ -118,7 +118,7 @@ class ApiCall(object):
 
 
 #test = ApiCall("BTC OR bitcoin", "2018-01-01", 
-#               "2018-01-02", "54826b7dfe0845f5bcda79a02538c1db")
+#               "2018-01-02", "")
 
 
 ##test examples

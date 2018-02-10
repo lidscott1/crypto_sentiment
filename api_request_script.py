@@ -4,6 +4,17 @@ import datetime
 import re
 import pickle
 
+
+
+class test(object):
+    
+    def __init__(self):
+        
+        print("dont overwrite the gd directory")
+
+
+
+
 class Struct(object):
 
     def __init__(self, data):
